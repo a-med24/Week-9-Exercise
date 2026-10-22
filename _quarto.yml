@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Week-9-Exercise"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: newpage.qmd
+        text: Testing
+
+format:
+  html:
+    theme:
+      - zephyr
+    css: styles.css
+    toc: true
+    
+    
+
+editor: visual
+
