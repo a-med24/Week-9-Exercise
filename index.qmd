@@ -5,6 +5,7 @@ resources:
 
 about:
   template: jolla
+  image: Alex_Github.jpg
   links:
       - text: Github
         href: https://github.com/a-med24/
