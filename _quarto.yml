@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - "Alex%20Medina%20Tech%20Resume.pdf"
+    - "Alex-Medina-Tech-Resume.pdf"
 
 website:
   title: "Week-9-Exercise"

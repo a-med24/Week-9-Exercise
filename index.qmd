@@ -9,7 +9,7 @@ about:
       - text: Github
         href: https://github.com/a-med24/
       - text: Resume
-        href: Alex%20Medina%20Tech%20Resume.pdf
+        href: Alex-Medina-Tech-Resume.pdf
 ---
 
 This is a Quarto website.
