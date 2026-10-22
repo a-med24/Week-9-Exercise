@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "*.pdf"
+    - "documents/*.pdf"
 
 website:
   title: "Week-9-Exercise"
