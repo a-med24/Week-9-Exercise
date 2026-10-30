@@ -6,7 +6,7 @@ project:
     - "LitQuest.pdf"
 
 website:
-  title: "Alex Medina"
+  title: "Alexandra Medina"
   navbar:
     left:
       - href: index.qmd

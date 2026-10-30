@@ -1,5 +1,5 @@
 ---
-title: "Alex Medina"
+title: "Alexandra Medina"
 image: Alex_Github.jpg
 resources:
   - "Alex-Medina-Tech-Resume.pdf"
