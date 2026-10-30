@@ -25,6 +25,3 @@ about:
 Alexandra Medina is a third year student at the University of Illinois at Chicago studying Computer Science & Applied Statistics, where she also works as a Computer Specialist for the Technology Solutions department. She recently finished an internship as a Quantum AI/ML Intern at Argonne National Laboratory. Alex actively applies her skills to build cybersecurity challenges for UIC's Capture the Flame, their annual Capture the Flag event.   
 
 
-```{r}
-1 + 1
-```
