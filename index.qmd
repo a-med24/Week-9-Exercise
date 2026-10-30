@@ -12,9 +12,14 @@ about:
         icon: envelope
         href: mailto:alexandra.med24@gmail.com
       - text: Github
+        icon: github
         href: https://github.com/a-med24/
       - text: Resume
+        icon: file-text
         href: Alex-Medina-Tech-Resume.pdf
+      - text: LinkedIn
+        icon: linkedin
+        href: https://www.linkedin.com/in/alex-medina-cs/ 
 ---
 
 This is a Quarto website.
