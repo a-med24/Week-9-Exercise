@@ -16,7 +16,7 @@ about:
         href: https://github.com/a-med24/
       - text: Resume
         icon: file-text
-        href: Alex-Medina-Tech-Resume.pdf
+        href: https://a-med24.github.io/Week-9-Exercise/Alex-Medina-Tech-Resume.pdf
       - text: LinkedIn
         icon: linkedin
         href: https://www.linkedin.com/in/alex-medina-cs/ 
