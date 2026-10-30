@@ -1,12 +1,16 @@
 ---
-title: "Week-9-Exercise"
+title: "Alex Medina"
+image: Alex_Github.jpg
 resources:
-  - "Alex Medina Tech Resume.pdf"
+  - "Alex-Medina-Tech-Resume.pdf"
 
 about:
   template: jolla
-  image: Alex_Github.jpg
+  image-shape: round
   links:
+      - text: Email
+        icon: envelope
+        href: mailto:alexandra.med24@gmail.com
       - text: Github
         href: https://github.com/a-med24/
       - text: Resume

@@ -5,14 +5,13 @@ project:
     - "Alex-Medina-Tech-Resume.pdf"
 
 website:
-  title: "Week-9-Exercise"
+  title: "Alex Medina"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: newpage.qmd
-        text: Testing
+      - href: projects.qmd
+        text: Past Project Showcase
 
 format:
   html:
