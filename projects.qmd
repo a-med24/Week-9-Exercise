@@ -1,0 +1,22 @@
+---
+title: "Past Project Showcase"
+format: html
+---
+
+## LitQuest
+
+LitQuest is an interactive web and mobile application designed to address adult literacy challenges by making classic literature into visual novels. It was created within 24 hours during SparkHacks 2026.
+
+### Skills Showcased
+
+\- Web development and Application Prototype
+
+\- Collaboration with a team of 5
+
+\- Designing technology for social impact and accessibility
+
+\- ReactJS, JavaScript, Figma, MongoDB
+
+### Download
+
+[Download the full project (PDF)](LitQuest.pdf)

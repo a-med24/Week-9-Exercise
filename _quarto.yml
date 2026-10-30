@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "Alex-Medina-Tech-Resume.pdf"
+    - "LitQuest.pdf"
 
 website:
   title: "Alex Medina"
@@ -20,8 +21,8 @@ format:
     css: styles.css
     toc: true
     fontsize: 1.5rem
-    fontcolor: "#1D227C"
-    linkcolor: "#07203F"
+    fontcolor: "#07203F"
+    linkcolor: "#1D227C"
     monofont: courier new
 
 editor: visual
