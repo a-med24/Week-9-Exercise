@@ -5,7 +5,7 @@ format: html
 
 ## LitQuest
 
-LitQuest is an interactive web and mobile application designed to address adult literacy challenges by making classic literature into visual novels. It was created within 24 hours during SparkHacks 2026.
+LitQuest is an interactive web and mobile application designed to address adult literacy challenges by making classic literature into visual novels.
 
 ### Skills Showcased
 
@@ -20,3 +20,9 @@ LitQuest is an interactive web and mobile application designed to address adult 
 ### Download
 
 [Download the full project (PDF)](LitQuest.pdf)
+
+::: {.callout-note}
+
+LitQuest was built in 24 hours at SparkHacks2026, UIC's annual hackathon
+
+:::

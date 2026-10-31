@@ -17,13 +17,18 @@ website:
 format:
   html:
     theme:
-      - zephyr
+      light: lux
+      # I really liked the minimalistic look and it helps with a more professional look
     css: styles.css
     toc: true
     fontsize: 1.5rem
+    # Allows for font to scale
     fontcolor: "#07203F"
+    # Easy to read while not being fully black.
     linkcolor: "#1D227C"
+    # Matches the font and blue is associated with technology
     monofont: courier new
+    # Clean font
 
 editor: visual
 
